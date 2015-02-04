@@ -97,3 +97,11 @@
 		article .content .wrap h3{
 			font-size:16px;
 		}
+		
+		.wrap ul {
+		  font-family: Trebuchet MS;
+		}
+		
+		.wrap li b {
+		  color: #f73c3c;
+		}
