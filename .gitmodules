@@ -1,0 +1,6 @@
+[submodule "credits"]
+	path = credits
+	url = https://github.com/elamurugan/git-workflow-sub-module-1.git
+[submodule "contact"]
+	path = contact
+	url = https://github.com/elamurugan/git-workflow-sub-module-2.git
