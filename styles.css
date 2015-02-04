@@ -87,3 +87,13 @@
 		article .content {
 		  padding: 50px 0;
 		}
+		
+		
+		article .content .wrap h2{
+			text-align:center;
+			font-size:18px;
+		}
+		
+		article .content .wrap h3{
+			font-size:16px;
+		}
