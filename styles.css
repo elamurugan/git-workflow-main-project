@@ -109,3 +109,15 @@
 		.wrap li a {
 		  color: #5EE785;
 		}
+		.graphs {
+			margin: 10px;
+		}
+		.graphs img {
+		  margin: 10px;
+		  max-width: 95%;
+		}
+		.graphs p {
+  font-style: italic;
+  text-align: center;
+  text-decoration: underline;
+}
