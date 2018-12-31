@@ -32,12 +32,7 @@ To show Git workflow with multiple modules
 								<li>Updated menu links as per sub module</li>
 								<li>See below for diagramatic view of this from sourcetree [Todo: Need to add detailed graph view of commits and branches as per timeline]</li>
 								<li>Full credits goes to <a target="_blank" href="http://github.com/nvie">[Vincent Driessen]</a> from <a  target="_blank" href="http://nvie.com/posts/a-successful-git-branching-model/">his site</a> for this git flow</li>
-						<li>		
-							<div class="row graphs">
-								<img src="graph1.png" alt="Graph1 from release 1.1" title="Graph1 from release 1.1"/>
-								<p>Graph1 from release 1.1</p>
-							</div>
-								</li>
+						
 									
 							 <li>
 							<h3>Why this page and what else is here</h3>
