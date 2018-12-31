@@ -32,20 +32,22 @@ To show Git workflow with multiple modules
 								<li>Updated menu links as per sub module</li>
 								<li>See below for diagramatic view of this from sourcetree [Todo: Need to add detailed graph view of commits and branches as per timeline]</li>
 								<li>Full credits goes to <a target="_blank" href="http://github.com/nvie">[Vincent Driessen]</a> from <a  target="_blank" href="http://nvie.com/posts/a-successful-git-branching-model/">his site</a> for this git flow</li>
-							</ul>		
+						<li>		
 							<div class="row graphs">
 								<img src="graph1.png" alt="Graph1 from release 1.1" title="Graph1 from release 1.1"/>
 								<p>Graph1 from release 1.1</p>
 							</div>
-							 
+								</li>
+									
+							 <li>
 							<h3>Why this page and what else is here</h3>
 							<ul>
 									<li> This is to show and try explain a way to setup git workflow for your projects from dev, test and release</li>
 									<li> It is also having sub-module of git to show how a main project can have multiple sub projects which all are totally independent by them-self as like this main git repo.</li>						
 							</ul>
+							</li>
+							</ul>
 					</div>
-					<br/><br/>
-					<h3>You can checkout this git workflow and its submodules from <a href="https://github.com/elamurugan/git-workflow-main-project" target="_blank">Github</a></h3>
                    </div>
             </div>
         </div>
