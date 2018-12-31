@@ -1,15 +1,13 @@
 # git-workflow-main-project
 To show Git workflow with multiple modules
 
-
-
 <div class="container">
             <div class="row content">
                 <div class="col-md-12 col-md-offset-0 wrap">
                     <h2>This is to Explain how Git can work for multiple projects with several Branches</h2>
 					<br/><br/><br/>
 					<div>
-							<h3>Actions going on</h3>
+							<h3>Git Actions</h3>
 							<ul>
 								<li>Added first set of files and created master branch with git init</li>
 								<li>Updated few changes to master branch for to show commit flow</li>
